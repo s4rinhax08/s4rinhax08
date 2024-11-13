@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @s4rinhax08
+- 👋 Hi, I’m corna
 - 👀 I’m interested in... aprender coisas novas
 - 🌱 I’m currently learning ...html/css
 - 💞️ I’m looking to collaborate on ...
